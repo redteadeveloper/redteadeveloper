@@ -9,4 +9,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redteadeveloper&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Memey-Man)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Memey-Man&theme=tokyonight)](https://github.com/redteadeveloper/Memey-Man)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Maestro&theme=tokyonight)](https://github.com/redteadeveloper/Maestro)
