@@ -8,5 +8,5 @@ I'm a hobby developer mainly focusing on Discord bots.
 ### Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Memey-Man&theme=tokyonight)](https://github.com/redteadeveloper/Memey-Man)&nbsp;
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Maestro&theme=tokyonight)](https://github.com/redteadeveloper/Maestro)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shio7&repo=Keter&theme=tokyonight)](https://github.com/Shio7/Keter)&nbsp; 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=SandBox&theme=tokyonight)](https://github.com/redteadeveloper/SandBox)&nbsp; 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Animificator&theme=tokyonight)](https://github.com/redteadeveloper/Animificator)
