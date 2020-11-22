@@ -7,6 +7,7 @@ I'm a hobby developer mainly focusing on JavaScript projects.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redteadeveloper&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ### Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=SandBox&theme=default)](https://github.com/redteadeveloper/SandBox)&nbsp; 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Memey-Man&theme=default)](https://github.com/redteadeveloper/Memey-Man)&nbsp; <br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=AutoLyrics&theme=default)](https://github.com/redteadeveloper/AutoLyrics)&nbsp; <br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Memey-Man&theme=default)](https://github.com/redteadeveloper/Memey-Man)&nbsp;
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Maestro&theme=default)](https://github.com/redteadeveloper/Maestro)&nbsp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Animificator&theme=default)](https://github.com/redteadeveloper/Animificator)
+
