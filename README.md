@@ -9,5 +9,5 @@ I'm a hobby developer mainly focusing on JavaScript projects.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=SandBox&theme=default)](https://github.com/redteadeveloper/SandBox)&nbsp; 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=AutoLyrics&theme=default)](https://github.com/redteadeveloper/AutoLyrics)&nbsp; <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Memey-Man-Bot&theme=default)](https://github.com/redteadeveloper/Memey-Man-Bot)&nbsp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Maestro&theme=default)](https://github.com/redteadeveloper/Maestro)&nbsp;
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redteadeveloper&repo=Slasher&theme=default)](https://github.com/redteadeveloper/Slasher)&nbsp;
 
