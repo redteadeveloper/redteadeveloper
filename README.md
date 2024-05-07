@@ -1,6 +1,6 @@
-### Hi, I'm RedTea 👋
+### RedTeaDeveloper
 
-I'm a hobbyist developer mainly focusing on JavaScript projects.
+A hobbyist developer mainly focusing on JavaScript projects.
 
 ### My Github stats
 ![RedTea's Github stats](https://github-readme-stats.vercel.app/api?username=redteadeveloper&show_icons=true&theme=tokyonight&hide_border=true)&nbsp;
